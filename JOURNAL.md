@@ -10,12 +10,26 @@ This is my journal of the design and building process of **cbadge**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/15).
 
 
-## 9/24/2025 - schematic  
+## 9/24/2025 4 PM - schematic  
 
 i have made the schematic it was very esay seen as how small this project is but its a xiao rp2040 with a oled screen thats ment to be a name tag next on the todo is making my pcb which i blive is gonna be like a small key chain and routing which is gonna be very esay seen as how simple this project is 
 
 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzksInB1ciI6ImJsb2JfaWQifX0=--4b8bd218e80521ae4052d6b87d60ed8a8c24b2d8/image.png)
+  
+
+## 9/24/2025 5 PM - pcb  
+
+My pcb is done i have routed the 0.91 oled display and xiao speed rp2040  and add a hole for a keychain and add a photo of a teddy 
+i feel this project was very quick seen as its pocket size and i remeber how to route them from a hackpad i made from highway 
+
+
+
+
+
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDAsInB1ciI6ImJsb2JfaWQifX0=--ad46c36c88c2e2dbf2e82d7902357afc1ba14d8b/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDEsInB1ciI6ImJsb2JfaWQifX0=--950df00da3af88d35e52d47e0714ac116fa37009/image.png)
   
 
